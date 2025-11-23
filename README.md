@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MinesweeperProject
 
 A simple Java Swing Minesweeper game.
@@ -19,7 +18,3 @@ javac *.java
 java Main
 ```
 
-When `Main` is executed, a window with a 9x9 grid of buttons will appear.
-=======
-# minesweeper
->>>>>>> aaf4717b4e74cc844ffb1c09eab77860afdbe488
